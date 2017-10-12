@@ -1,1 +1,1 @@
-# My solutions of Algorithm-Lab ETH Zurich, 2015
+# My solution for Algorithm-Lab ETH Zurich, 2015
